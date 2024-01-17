@@ -6,3 +6,9 @@
 4. `kubectl apply -f configMap.yaml `
 5. `kubectl apply -f mongo-express-deployment.yaml`
 6. `kubectl apply -f mongo-express-service.yaml`
+
+# Documentation
+
+https://hub.docker.com/_/mongo
+
+https://hub.docker.com/_/mongo-express
